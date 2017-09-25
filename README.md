@@ -1,2 +1,2 @@
-# kekstagram
+# keksobooking
 Учебный проект. Только Js
