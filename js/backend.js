@@ -1,6 +1,6 @@
 'use strict';
 (function () {
-  var SERVER_URL = 'https://1510.dump.academy/keksobooking';
+  var SERVER_URL = 'https://js.dump.academy/keksobooking';
   var RESPONSE_TIMEOUT = 10000;
   var RESPONCE_STATUS_OK = 200;
   var CONNECTION_ERROR_TEXT = 'Произошла ошибка соединения';
